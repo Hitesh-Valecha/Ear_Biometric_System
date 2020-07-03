@@ -13,7 +13,7 @@ Use.py is the file used to predict the output after training and testing by load
 
 Enjoy the Project
 
-Make process in the biometric field and share around the globe open source
+Make progess in the biometric field and share around the globe open source
 
 Please don't use the project for commercial purposes
 It is made open source for academic purposes only
